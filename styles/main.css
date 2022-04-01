@@ -1,16 +1,14 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
 
-/* CSS Reset Stub */
 
-/* Box sizing rules */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-/* Remove default margin */
+
 body,
 h1,
 h2,
