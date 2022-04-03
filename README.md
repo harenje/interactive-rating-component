@@ -1,3 +1,3 @@
-Small challange by Frontend Mentor..
+# Small challange by Frontend Mentor..
 
-Live url: https://harenje.github.io/interactive-rating-component/
+# Live: https://harenje.github.io/interactive-rating-component/
